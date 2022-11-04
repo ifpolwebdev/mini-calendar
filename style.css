@@ -34,6 +34,7 @@ body {
 
 .day-number {
     font-size: 80px;
+    margin: 0;
     font-weight: bold;
 }
 
